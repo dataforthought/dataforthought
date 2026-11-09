@@ -1,6 +1,6 @@
 - 👋 Hi there! I’m Dontese :^)
-- 👀 I’m interested in Quantitative finance and Data Analytics
-- 🌱 I’m currently learning R and Java
+- 👀 I’m interested in Forecsting and Data Analytics
+- 🌱 I’m currently pursuing a Masters in Data Science with a concentration in Statistics from NJIT!
 
 
 <!---
